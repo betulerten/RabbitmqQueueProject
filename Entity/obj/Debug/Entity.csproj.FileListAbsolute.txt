@@ -1,0 +1,6 @@
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\bin\Debug\Entity.dll
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\bin\Debug\Entity.pdb
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\obj\Debug\Entity.dll
+C:\Users\betul\OneDrive\Desktop\vs\RabbitmqQueueProject\Entity\obj\Debug\Entity.pdb
